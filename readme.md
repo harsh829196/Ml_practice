@@ -1,4 +1,4 @@
-# 🧠 Machine Learning Practice by Harsh
+# 🧠 Machine Learning Practice by Harshvardhan singh
 
 Welcome to my **Machine Learning Practice Repository**!  
 This repo includes all my practice notebooks and mini ML projects as I learn and grow in the field of **Artificial Intelligence and Machine Learning**.
